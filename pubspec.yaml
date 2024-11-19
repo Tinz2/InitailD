@@ -1,0 +1,75 @@
+name: projectanimate_tin
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^2.0.0
+  audioplayers: ^6.1.0
+  video_player: ^2.9.1
+  webview_flutter: ^4.8.0
+  google_maps_flutter: ^2.9.0
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.11.0
+  flutter_lints: ^3.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.jpg"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/lottie/title.json
+    - assets/logo.png
+    - assets/sound/86.mp3
+    - assets/sound/eg6.mp3
+    - assets/sound/silvia.mp3
+    - assets/sound/nsx.mp3
+    - assets/sound/r32.mp3
+    - assets/sound/rx7.mp3
+    - assets/sound/s2000.mp3
+    - assets/sound/subaru.mp3
+    - assets/sound/evo.mp3
+    - assets/sound/mr2.mp3
+    - assets/video/InitialD.mp4
+    - assets/video/86.mp4
+    - assets/video/rx7.mp4
+    - assets/video/evo.mp4
+    - assets/video/r32.mp4
+    - assets/takumi.png
+    - assets/ftakumi.png
+    - assets/iketani.png
+    - assets/isuki.png
+    - assets/ksuke.png
+    - assets/rsuke.png
+    - assets/86.png
+    - assets/rx7.png
+    - assets/r32.png
+    - assets/evo.png
+    - assets/mr2.png
+    - assets/subaru.png
+    - assets/silvia.png
+    - assets/nsx.png
+    - assets/s2000.png
+    - assets/eg6.png
+    - assets/ab1.jpg
+    - assets/ab2.jpg
+    - assets/ab3.png
+    - assets/icon/icon.jpg
+    - assets/akina.png
+    - assets/blue.png
+    - assets/nightkids.png
+    - assets/redsun.png
+    - assets/gps.png
+    - assets/tel.png
